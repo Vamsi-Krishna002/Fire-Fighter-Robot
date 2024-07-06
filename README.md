@@ -11,6 +11,7 @@ A remote-controlled car equipped with fire detection sensors, an alarm system, a
   - [Hardware Setup](#hardware-setup)
   - [Software Setup](#software-setup)
 - [Images](#images)
+- [Demo](#demo)
 - [Functionality](#functionality)
 - [Key Learnings](#key-learnings)
 - [Getting Started](#getting-started)
@@ -58,6 +59,10 @@ Refer to the circuit diagram in the project files for detailed wiring instructio
 ![Firefighting Robot](images/ffr1.png)
 ![Firefighting Robot](images/ffr2.png)
 ![Firefighting Robot](images/car.jpg)
+
+## Demo
+**Project Demo:** [View the demo video](https://youtu.be/nHF-pKGtQJA)
+
 
 ## Functionality
 
