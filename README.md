@@ -93,7 +93,7 @@ Refer to the circuit diagram in the project files for detailed wiring instructio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bhaswanth67/firefighting-robot.git
+   git clone https://github.com/Vamsi-Krishna002/Fire-Fighter-Robot.git
    ```
 2. Open the Arduino IDE and load the sketch(code.ino) from the repository.
 3. Follow the hardware setup instructions to assemble your robot.
